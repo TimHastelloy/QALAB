@@ -16,17 +16,17 @@ namespace SeleniumQualityLab
         By login_element;
         By password_element;
         By enter_button;
-        By send_button;
+        By write_button;
         By address_to;
-        By table;
+        By send_button;
         public PageObject(IWebDriver driver)
         {
             this.driver = driver;
         }
         public void MailLoginPage()
         {
-            string login = ""; /*Input your login*/
-            string password = "";/*Input your password*/
+            string login = "mushtekenov"; /*Input your login*/
+            string password = "Musashi1584_GoRinNoSho";/*Input your password*/
             driver.Navigate().GoToUrl("https://mail.ru/");
             Assert.IsTrue(driver.Url=="https://mail.ru/");
             login_element = By.Name("login");
@@ -43,12 +43,15 @@ namespace SeleniumQualityLab
         }
         public void SendMessage()
         {
-            send_button = By.XPath("//span[text()='Написать письмо']");
-            Assert.NotNull(send_button);
-            driver.FindElement(send_button).Click();
+            write_button = By.XPath("//span[text()='Написать письмо']");
+            Assert.NotNull(write_button);
+            driver.FindElement(write_button).Click();
             address_to = By.XPath("//textarea[@data-original-name='To']");
             Assert.NotNull(address_to);
             driver.FindElement(address_to).SendKeys("test@gmail.com");
+            send_button= By.XPath("//span[text()='Отправить']");
+            Assert.NotNull(send_button);
+            driver.FindElement(send_button).Click();
         }
     }
 }

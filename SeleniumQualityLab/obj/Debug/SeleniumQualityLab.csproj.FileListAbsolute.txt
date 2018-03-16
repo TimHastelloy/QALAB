@@ -10,3 +10,15 @@ C:\Users\Bushido\source\repos\SeleniumQualityLab\SeleniumQualityLab\bin\Debug\nu
 C:\Users\Bushido\source\repos\SeleniumQualityLab\SeleniumQualityLab\bin\Debug\nunit.framework.pdb
 C:\Users\Bushido\source\repos\SeleniumQualityLab\SeleniumQualityLab\bin\Debug\nunit.framework.xml
 C:\Users\Bushido\source\repos\SeleniumQualityLab\SeleniumQualityLab\obj\Debug\SeleniumQualityLab.csprojResolveAssemblyReference.cache
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\bin\Debug\SeleniumQualityLab.exe.config
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\bin\Debug\SeleniumQualityLab.exe
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\bin\Debug\SeleniumQualityLab.pdb
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\bin\Debug\nunit.framework.dll
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\bin\Debug\WebDriver.dll
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\bin\Debug\nunit.framework.pdb
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\bin\Debug\nunit.framework.xml
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\bin\Debug\WebDriver.xml
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\obj\Debug\SeleniumQualityLab.csprojResolveAssemblyReference.cache
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\obj\Debug\SeleniumQualityLab.csproj.CoreCompileInputs.cache
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\obj\Debug\SeleniumQualityLab.exe
+C:\Users\Bushido\source\repos\SeleniumQualityLab\QALAB\SeleniumQualityLab\obj\Debug\SeleniumQualityLab.pdb
