@@ -25,8 +25,8 @@ namespace SeleniumQualityLab
         }
         public void MailLoginPage()
         {
-            string login = "mushtekenov"; /*Input your login*/
-            string password = "Musashi1584_GoRinNoSho";/*Input your password*/
+            string login = ""; /*Input your login*/
+            string password = "";/*Input your password*/
             driver.Navigate().GoToUrl("https://mail.ru/");
             Assert.IsTrue(driver.Url=="https://mail.ru/");
             login_element = By.Name("login");
